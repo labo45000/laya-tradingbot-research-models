@@ -1,14 +1,14 @@
-# JEV fine-tuned Laya checkpoints — research only
+# Laya fine-tune for BTC research — research only
 
 ## Where to find the weights / Où trouver les poids
 
-Download the nine ZIP files from [Releases → research-v1 → Assets](https://github.com/labo45000/jev-tradingbot-research-models/releases/tag/research-v1). Each ZIP contains one `model.safetensors` weight file plus its configuration and tokenizer files. The binary weights live in the release assets, not in the repository file list. This repository is private, so GitHub access is required.
+Download the nine ZIP files from [Releases → research-v1 → Assets](https://github.com/labo45000/laya-tradingbot-research-models/releases/tag/research-v1). Each ZIP contains one `model.safetensors` weight file plus its configuration and tokenizer files. The binary weights live in the release assets, not in the repository file list. This repository is private, so GitHub access is required.
 
-Télécharge les neuf archives ZIP depuis [Releases → research-v1 → Assets](https://github.com/labo45000/jev-tradingbot-research-models/releases/tag/research-v1). Chaque archive contient un fichier de poids `model.safetensors`, ses configurations et son tokenizer. Les poids sont dans les assets de la release, pas dans la liste des fichiers du dépôt. Dépôt privé : accès GitHub requis.
+Télécharge les neuf archives ZIP depuis [Releases → research-v1 → Assets](https://github.com/labo45000/laya-tradingbot-research-models/releases/tag/research-v1). Chaque archive contient un fichier de poids `model.safetensors`, ses configurations et son tokenizer. Les poids sont dans les assets de la release, pas dans la liste des fichiers du dépôt. Dépôt privé : accès GitHub requis.
 
 **Status: experimental research artifacts. Not trading-ready. Do not use for live or paper trading.** The selection campaign did not qualify any model; no checkpoint was selected, no final test was read, and live qualification is false.
 
-Nine fine-tuned Laya checkpoints from `research-v1` are attached to the [`research-v1` GitHub release](https://github.com/labo45000/jev-tradingbot-research-models/releases/tag/research-v1). Each ZIP contains one `.safetensors` weight file plus its encoder/tokenizer and model configuration files.
+Nine fine-tuned Laya checkpoints from `research-v1` are attached to the [`research-v1` GitHub release](https://github.com/labo45000/laya-tradingbot-research-models/releases/tag/research-v1). Each ZIP contains one `.safetensors` weight file plus its encoder/tokenizer and model configuration files.
 
 ## Checkpoints
 
