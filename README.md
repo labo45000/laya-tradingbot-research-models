@@ -6,6 +6,8 @@ Nine fine-tuned Laya checkpoints from `research-v1` are attached to the [`resear
 
 ## Checkpoints
 
+The repository includes [`SHA256SUMS.txt`](SHA256SUMS.txt) with SHA-256 checksums for all weights.
+
 | Target | Epochs |
 | --- | --- |
 | 1R | 1, 2, 4 |
