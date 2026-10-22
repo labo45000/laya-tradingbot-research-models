@@ -2,7 +2,7 @@
 
 **Status: experimental research artifacts. Not trading-ready. Do not use for live or paper trading.** The selection campaign did not qualify any model; no checkpoint was selected, no final test was read, and live qualification is false.
 
-Nine fine-tuned Laya checkpoints from `research-v1` are attached to the [`research-v1` GitHub release](https://github.com/labo45000/jev-tradingbot-research-models/releases/tag/research-v1). Each `.safetensors` file is about 843 MB.
+Nine fine-tuned Laya checkpoints from `research-v1` are attached to the [`research-v1` GitHub release](https://github.com/labo45000/jev-tradingbot-research-models/releases/tag/research-v1). Each ZIP contains one `.safetensors` weight file plus its encoder/tokenizer and model configuration files.
 
 ## Checkpoints
 
@@ -12,7 +12,7 @@ Nine fine-tuned Laya checkpoints from `research-v1` are attached to the [`resear
 | 1.5R | 1, 2, 4 |
 | 2R | 1, 2, 4 |
 
-Release asset names use `laya-tp<TARGET>-epoch<EPOCH>.safetensors` (for example, `laya-tp1.5-epoch2.safetensors`).
+Release asset names use `laya-tp<TARGET>-epoch<EPOCH>.zip` (for example, `laya-tp1.5-epoch2.zip`).
 
 ## Evaluation status
 
